@@ -1,4 +1,4 @@
-#include <Pixels.h>
+#include <Lugh.h>
 
 // the datastructure that represents a strand of pixels
 Pixels p;

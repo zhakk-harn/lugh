@@ -54,7 +54,7 @@ struct Pixels {
     return this;
   }
 
-  Pixels* repeat() {
+  void repeat() {
     if (progress > 0) {
       startTime = time;
     }
